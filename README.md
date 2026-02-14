@@ -1,9 +1,19 @@
-- 👋 Hi, I’m kelash malhi
-- 👀 A passionate Python developer and Data Science enthusiast
-- 🌱 I’m currently learning Data Science
-- 😄 Pronouns: kelaash
+# Kelash Malhi Portfolio
 
-<!---
-Anonymous0319/Anonymous0319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A clean, responsive personal portfolio website built with HTML, CSS, and JavaScript.
+
+## Run locally
+
+```bash
+python3 -m http.server 8000
+```
+
+Then open `http://localhost:8000` in your browser.
+
+## Sections included
+
+- Hero intro
+- About
+- Skills
+- Featured projects
+- Contact CTA
