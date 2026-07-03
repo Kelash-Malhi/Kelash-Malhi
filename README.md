@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kelash malhi
 - 👀 A passionate Python developer and Data Science enthusiast
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Visualization
 - 😄 Pronouns: kelaash
 
 <!---
